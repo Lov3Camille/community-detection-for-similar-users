@@ -1,2 +1,2 @@
-# Web-scale-Information-Analytics
-Using hadoop to do some analysis
+# community detection for similar users
+Using Hadoop and python3 to do this job.
